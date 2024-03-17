@@ -1,0 +1,479 @@
+C:\Users\dipak\PycharmProjects\RedditUrologyScraper\venv\Scripts\python.exe C:/Users/dipak/PycharmProjects/RedditUrologyScraper/askdocs_parse.py
+https://www.reddit.com/api/v1/authorize?client_id=eaGtkvifo9nu2SmL75NtRw&duration=permanent&redirect_uri=http%3A%2F%2Flocalhost%3A8080&response_type=code&scope=identity&state=...
+Version 7.5.0 of praw is outdated. Version 7.7.0 was released Saturday February 25, 2023.
+<|> connected PRAW
+<|> Subreddit:  AskDocs
+<|> Hot Post # 1
+<|> Hot Post # 2
+<|> Hot Post # 3
+<|> Hot Post # 4
+<|> Hot Post # 5
+<|> Hot Post # 6
+<|> Hot Post # 7
+<|> Hot Post # 8
+<|> Hot Post # 9
+<|> Hot Post # 10
+<|> Hot Post # 11
+<|> Hot Post # 12
+<|> Found physician response
+<|> title flag(s):  ['urine']
+<|> text flag(s):  ['urine', 'pee']
+<|> Author Flair:  None
+<|> Author Flair:  Physician Assistant
+<|> Physician response saved!
+<|> Author Flair:  Physician
+<|> Physician response saved!
+<|> Author Flair:  Physician
+<|> Physician response saved!
+<|> Author Flair:  Physician
+<|> Physician response saved!
+<|> Author Flair:  Layperson/not verified as healthcare professional
+<|> Author Flair:  Physician Assistant - Urology
+<|> Physician response saved!
+<|> Author Flair:  Layperson/not verified as healthcare professional
+<|> Author Flair:  Medical Student
+<|> Author Flair:  Physician Assistant
+<|> Physician response saved!
+<|> Author Flair:  Registered Nurse
+<|> Hot Post # 13
+<|> Hot Post # 14
+<|> Hot Post # 15
+<|> Hot Post # 16
+<|> Hot Post # 17
+<|> Hot Post # 18
+<|> Found physician response
+<|> title flag(s):  []
+<|> text flag(s):  ['urine']
+<|> Author Flair:  None
+<|> Author Flair:  Physician
+<|> Physician response saved!
+<|> Author Flair:  Registered Nurse
+<|> Author Flair:  Registered Nurse
+<|> Author Flair:  Physician
+<|> Physician response saved!
+<|> Author Flair:  Physician - Gastroenterology
+<|> Physician response saved!
+<|> Author Flair:  Physician (11)
+<|> Physician response saved!
+<|> Author Flair:  None
+<|> Author Flair:  None
+<|> Hot Post # 19
+<|> Hot Post # 20
+<|> Hot Post # 21
+<|> Hot Post # 22
+<|> Hot Post # 23
+<|> Hot Post # 24
+<|> Hot Post # 25
+<|> Hot Post # 26
+<|> Hot Post # 27
+<|> Hot Post # 28
+<|> Hot Post # 29
+<|> Hot Post # 30
+<|> Hot Post # 31
+<|> Hot Post # 32
+<|> Hot Post # 33
+<|> Hot Post # 34
+<|> Found physician response
+<|> title flag(s):  []
+<|> text flag(s):  ['kidney']
+<|> Author Flair:  None
+<|> Author Flair:  Pharmacist
+<|> Author Flair:  Pharmacist
+<|> Author Flair:  Pharmacist
+<|> Author Flair:  Physician
+<|> Physician response saved!
+<|> Author Flair:  Social Worker
+<|> Author Flair:  Medical Student
+<|> Author Flair:  Medical Student
+<|> Author Flair:  Physician
+<|> Physician response saved!
+<|> Author Flair:  Physician
+<|> Physician response saved!
+<|> Author Flair:  Physician/Pharm.D.
+<|> Physician response saved!
+<|> Author Flair:  Physician
+<|> Physician response saved!
+<|> Author Flair:  Medical Student
+<|> Author Flair:  None
+<|> Author Flair:  None
+<|> Hot Post # 35
+<|> Found physician response
+<|> title flag(s):  []
+<|> text flag(s):  ['pee', 'bladder']
+<|> Author Flair:  None
+<|> Author Flair:  Physician | Top Contributor
+<|> Physician response saved!
+<|> Author Flair:  Medical Technologist - Microbiology
+<|> Author Flair:  Physician Assistant
+<|> Physician response saved!
+<|> Author Flair:  Medical Student
+<|> Author Flair:  Physician
+<|> Physician response saved!
+<|> Author Flair:  None
+<|> Author Flair:  Pharmacist
+<|> Author Flair:  None
+<|> Author Flair:  None
+<|> Author Flair:  None
+<|> Author Flair:  Registered Nurse
+<|> Hot Post # 36
+<|> Hot Post # 37
+<|> Hot Post # 38
+<|> Hot Post # 39
+<|> Hot Post # 40
+<|> Found physician response
+<|> title flag(s):  []
+<|> text flag(s):  ['balls']
+<|> Author Flair:  None
+<|> Author Flair:  Physician - Emergency Medicine
+<|> Physician response saved!
+<|> Author Flair:  Physician
+<|> Physician response saved!
+<|> Author Flair:  MRI Technologist
+<|> Hot Post # 41
+<|> Hot Post # 42
+<|> Hot Post # 43
+<|> Hot Post # 44
+<|> Hot Post # 45
+<|> Hot Post # 46
+<|> Found physician response
+<|> title flag(s):  []
+<|> text flag(s):  ['urine']
+<|> Author Flair:  None
+<|> Author Flair:  Physician - Rheumatology
+<|> Physician response saved!
+<|> Author Flair:  Registered Nurse
+<|> Hot Post # 47
+<|> Hot Post # 48
+<|> Hot Post # 49
+<|> Hot Post # 50
+<|> Found physician response
+<|> title flag(s):  []
+<|> text flag(s):  ['urine']
+<|> Author Flair:  None
+<|> Author Flair:  Registered Nurse
+<|> Author Flair:  Physician
+<|> Physician response saved!
+<|> Author Flair:  Physician - Critical Care
+<|> Physician response saved!
+<|> Hot Post # 51
+<|> Hot Post # 52
+<|> Hot Post # 53
+<|> Hot Post # 54
+<|> Hot Post # 55
+<|> Hot Post # 56
+<|> Hot Post # 57
+<|> Hot Post # 58
+<|> Hot Post # 59
+<|> Hot Post # 60
+<|> Hot Post # 61
+<|> Found physician response
+<|> title flag(s):  []
+<|> text flag(s):  ['penis', 'vagina']
+<|> Author Flair:  None
+<|> Author Flair:  Physician
+<|> Physician response saved!
+<|> Author Flair:  Pharmacist
+<|> Author Flair:  Physician
+<|> Physician response saved!
+<|> Author Flair:  Cardiac Perfusionist
+<|> Author Flair:  Layperson/not verified as healthcare professional.
+<|> Hot Post # 62
+<|> Hot Post # 63
+<|> Hot Post # 64
+<|> Found physician response
+<|> title flag(s):  []
+<|> text flag(s):  ['urine', 'kidney']
+<|> Author Flair:  None
+<|> Author Flair:  Physician
+<|> Physician response saved!
+<|> Author Flair:  Physician
+<|> Physician response saved!
+<|> Author Flair:  Nurse Practitioner
+<|> Author Flair:  Nurse Practitioner
+<|> Author Flair:  General Practitioner
+<|> Author Flair:  Patient Care Assistant
+<|> Author Flair:  Nurse Practitioner
+<|> Hot Post # 65
+<|> Hot Post # 66
+<|> Hot Post # 67
+<|> Found physician response
+<|> title flag(s):  []
+<|> text flag(s):  ['urine']
+<|> Author Flair:  None
+<|> Author Flair:  Nurse Practitioner - Pediatrics
+<|> Author Flair:  Physician - Neurology
+<|> Physician response saved!
+<|> Hot Post # 68
+<|> Hot Post # 69
+<|> Hot Post # 70
+<|> Hot Post # 71
+<|> Hot Post # 72
+<|> Hot Post # 73
+<|> Hot Post # 74
+<|> Hot Post # 75
+<|> Hot Post # 76
+<|> Hot Post # 77
+<|> Hot Post # 78
+<|> Found physician response
+<|> title flag(s):  ['urine']
+<|> text flag(s):  ['urine', 'pee']
+<|> Author Flair:  None
+<|> Author Flair:  Physician
+<|> Physician response saved!
+<|> Author Flair:  Physician
+<|> Physician response saved!
+<|> Author Flair:  Registered Nurse
+<|> Author Flair:  Physician
+<|> Physician response saved!
+<|> Author Flair:  Medical Student
+<|> Author Flair:  Layperson/not verified as healthcare professional
+<|> Author Flair:  Medical Student
+<|> Hot Post # 79
+<|> Hot Post # 80
+<|> Hot Post # 81
+<|> Hot Post # 82
+<|> Hot Post # 83
+<|> Hot Post # 84
+<|> Hot Post # 85
+<|> Hot Post # 86
+<|> Hot Post # 87
+<|> Hot Post # 88
+<|> Hot Post # 89
+<|> Hot Post # 90
+<|> Hot Post # 91
+<|> Hot Post # 92
+<|> Hot Post # 93
+<|> Hot Post # 94
+<|> Hot Post # 95
+<|> Hot Post # 96
+<|> Hot Post # 97
+<|> Hot Post # 98
+<|> Hot Post # 99
+<|> Hot Post # 100
+<|> Hot Post # 101
+<|> Hot Post # 102
+<|> Hot Post # 103
+<|> Hot Post # 104
+<|> Hot Post # 105
+<|> Hot Post # 106
+<|> Hot Post # 107
+<|> Hot Post # 108
+<|> Hot Post # 109
+<|> Hot Post # 110
+<|> Hot Post # 111
+<|> Hot Post # 112
+<|> Found physician response
+<|> title flag(s):  []
+<|> text flag(s):  ['urine', 'pee', 'kidney']
+<|> Author Flair:  None
+<|> Author Flair:  Physician
+<|> Physician response saved!
+<|> Author Flair:  Layperson/not verified as healthcare professional
+<|> Author Flair:  Medical Laboratory Scientist
+<|> Hot Post # 113
+<|> Hot Post # 114
+<|> Hot Post # 115
+<|> Hot Post # 116
+<|> Hot Post # 117
+<|> Hot Post # 118
+<|> Hot Post # 119
+<|> Hot Post # 120
+<|> Hot Post # 121
+<|> Hot Post # 122
+<|> Hot Post # 123
+<|> Found physician response
+<|> title flag(s):  ['bladder']
+<|> text flag(s):  ['pee', 'bladder']
+<|> Author Flair:  None
+<|> Author Flair:  Physician
+<|> Physician response saved!
+<|> Author Flair:  EMT
+<|> Hot Post # 124
+<|> Hot Post # 125
+<|> Hot Post # 126
+<|> Hot Post # 127
+<|> Hot Post # 128
+<|> Hot Post # 129
+<|> Hot Post # 130
+<|> Hot Post # 131
+<|> Hot Post # 132
+<|> Hot Post # 133
+<|> Hot Post # 134
+<|> Hot Post # 135
+<|> Hot Post # 136
+<|> Hot Post # 137
+<|> Hot Post # 138
+<|> Hot Post # 139
+<|> Found physician response
+<|> title flag(s):  []
+<|> text flag(s):  ['kidney']
+<|> Author Flair:  None
+<|> Author Flair:  Physician
+<|> Physician response saved!
+<|> Author Flair:  Neonatal Nurse Practitioner
+<|> Hot Post # 140
+<|> Hot Post # 141
+<|> Hot Post # 142
+<|> Hot Post # 143
+<|> Hot Post # 144
+<|> Hot Post # 145
+<|> Hot Post # 146
+<|> Hot Post # 147
+<|> Hot Post # 148
+<|> Hot Post # 149
+<|> Hot Post # 150
+<|> Hot Post # 151
+<|> Hot Post # 152
+<|> Hot Post # 153
+<|> Hot Post # 154
+<|> Hot Post # 155
+<|> Hot Post # 156
+<|> Hot Post # 157
+<|> Hot Post # 158
+<|> Hot Post # 159
+<|> Hot Post # 160
+<|> Hot Post # 161
+<|> Found physician response
+<|> title flag(s):  []
+<|> text flag(s):  ['bladder']
+<|> Author Flair:  None
+<|> Author Flair:  Physician - Internal Medicine | Moderator
+<|> Physician response saved!
+<|> Hot Post # 162
+<|> Hot Post # 163
+<|> Hot Post # 164
+<|> Hot Post # 165
+<|> Hot Post # 166
+<|> Hot Post # 167
+<|> Hot Post # 168
+<|> Hot Post # 169
+<|> Hot Post # 170
+<|> Hot Post # 171
+<|> Hot Post # 172
+<|> Hot Post # 173
+<|> Found physician response
+<|> title flag(s):  []
+<|> text flag(s):  ['urine']
+<|> Author Flair:  None
+<|> Author Flair:  MD - Peds GI | Top Contributor
+<|> Author Flair:  Medical Student
+<|> Author Flair:  None
+<|> Hot Post # 174
+<|> Found physician response
+<|> title flag(s):  []
+<|> text flag(s):  ['urine']
+<|> Author Flair:  None
+<|> Author Flair:  Physician
+<|> Physician response saved!
+<|> Author Flair:  Layperson/not verified as healthcare professional
+<|> Hot Post # 175
+<|> Hot Post # 176
+<|> Hot Post # 177
+<|> Hot Post # 178
+<|> Hot Post # 179
+<|> Hot Post # 180
+<|> Hot Post # 181
+<|> Found physician response
+<|> title flag(s):  []
+<|> text flag(s):  ['kidney']
+<|> Author Flair:  None
+<|> Author Flair:  Physician
+<|> Physician response saved!
+<|> Hot Post # 182
+<|> Hot Post # 183
+<|> Hot Post # 184
+<|> Hot Post # 185
+<|> Hot Post # 186
+<|> Hot Post # 187
+<|> Hot Post # 188
+<|> Hot Post # 189
+<|> Hot Post # 190
+<|> Hot Post # 191
+<|> Hot Post # 192
+<|> Hot Post # 193
+<|> Hot Post # 194
+<|> Hot Post # 195
+<|> Hot Post # 196
+<|> Hot Post # 197
+<|> Hot Post # 198
+<|> Hot Post # 199
+<|> Hot Post # 200
+<|> Hot Post # 201
+<|> Hot Post # 202
+<|> Hot Post # 203
+<|> Hot Post # 204
+<|> Hot Post # 205
+<|> Hot Post # 206
+<|> Hot Post # 207
+<|> Hot Post # 208
+<|> Hot Post # 209
+<|> Hot Post # 210
+<|> Hot Post # 211
+<|> Hot Post # 212
+<|> Hot Post # 213
+<|> Hot Post # 214
+<|> Hot Post # 215
+<|> Hot Post # 216
+<|> Hot Post # 217
+<|> Hot Post # 218
+<|> Hot Post # 219
+<|> Hot Post # 220
+<|> Hot Post # 221
+<|> Hot Post # 222
+<|> Hot Post # 223
+<|> Hot Post # 224
+<|> Found physician response
+<|> title flag(s):  []
+<|> text flag(s):  ['kidney']
+<|> Author Flair:  None
+<|> Author Flair:  Physician - Pediatrics
+<|> Physician response saved!
+<|> Hot Post # 225
+<|> Hot Post # 226
+<|> Found physician response
+<|> title flag(s):  []
+<|> text flag(s):  ['pee', 'incontinence']
+<|> Author Flair:  None
+<|> Author Flair:  Physician - Neurology/Internal Medicine
+<|> Physician response saved!
+<|> Author Flair:  Physician, Psychiatry
+<|> Physician response saved!
+<|> Author Flair:  Physician
+<|> Physician response saved!
+<|> Author Flair:  Registered Nurse
+<|> Author Flair:  Social Worker (MSW)
+<|> Author Flair:  Nurse Practitioner
+<|> Author Flair:  Family and Marriage Therapist
+<|> Hot Post # 227
+<|> Hot Post # 228
+<|> Hot Post # 229
+<|> Hot Post # 230
+<|> Hot Post # 231
+<|> Hot Post # 232
+<|> Hot Post # 233
+<|> Hot Post # 234
+<|> Hot Post # 235
+<|> Hot Post # 236
+<|> Hot Post # 237
+<|> Hot Post # 238
+<|> Hot Post # 239
+<|> Hot Post # 240
+<|> Hot Post # 241
+<|> Hot Post # 242
+<|> Hot Post # 243
+<|> Found physician response
+<|> title flag(s):  []
+<|> text flag(s):  ['kidney']
+<|> Author Flair:  None
+<|> Author Flair:  Physician
+<|> Physician response saved!
+<|> Hot Post # 244
+<|> Hot Post # 245
+<|> Hot Post # 246
+<|> Hot Post # 247
+<|> Hot Post # 248
+<|> List converted to dataframe
+<|> Dataframe saved as excel file
+<|> 243.7755024433136 seconds
+
+Process finished with exit code 0
